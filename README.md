@@ -31,10 +31,10 @@ traffic sources, and revenue leakage patterns.
  Screenshots
 
  Page 1 — Sales Summary
-[Page 1](page1-sales-summary.png)
+![Page 1](Page1%20-%20sales-summary.png.jpeg)
 
  Page 2 — Traffic Analysis
-[Page 2](page2-traffic-funnel.png)
+![Page 2](Page2%20-%20traffic-funnel.png.jpeg)
 
  Page 3 — Revenue Leakage
-[Page 3](page3-revenue-leakage.png)
+![Page 3](Page3%20-%20revenue-leakage.png.jpeg)
